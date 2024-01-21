@@ -1,0 +1,82 @@
+2024-01-08 00:59:56,647 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-08 00:59:58,806 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-08 00:59:58,807 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-08 01:03:56,833 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-08 01:04:00,545 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-08 01:04:00,545 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-08 01:04:20,821 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-08 01:04:27,555 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-08 01:04:27,555 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-08 01:04:47,463 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-08 01:04:52,613 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-08 01:04:52,613 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 14:44:21,043 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:03:14,454 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:04:31,742 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:07:20,875 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:08:01,631 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:20:12,752 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:21:45,777 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:22:13,909 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:22:33,333 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:27:05,068 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:27:07,557 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 15:27:07,557 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 15:30:08,245 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 15:50:42,061 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 16:50:25,481 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 16:54:00,670 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 16:57:11,834 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 16:59:23,564 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:01:33,730 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:02:10,731 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:02:35,635 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:02:38,166 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 17:02:38,166 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 17:05:39,728 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:05:42,140 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 17:05:42,141 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 17:07:53,937 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:07:56,478 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 17:07:56,478 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 17:08:54,134 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:08:56,547 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 17:08:56,548 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 17:12:29,216 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:12:32,102 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 17:12:32,102 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 17:13:41,150 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:13:46,549 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 17:13:46,549 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 17:14:36,400 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:14:42,015 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 17:14:42,015 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 17:18:43,458 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:19:17,336 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:31:58,528 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:35:15,744 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 17:37:44,029 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 22:37:12,482 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 22:37:14,963 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 22:37:14,966 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 22:38:17,821 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 22:38:20,344 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 22:38:20,344 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 22:41:16,899 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 22:41:19,377 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 22:41:19,377 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 22:41:51,279 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 22:41:53,255 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 22:41:53,255 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 22:46:05,640 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 22:46:08,304 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 22:46:08,304 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 22:46:28,829 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 22:46:31,254 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 22:46:31,254 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 22:47:18,430 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 22:47:20,412 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 22:47:20,412 INFO TestWithKiosk [main] Драйвер закрыт
+2024-01-21 22:48:33,522 INFO TestWithKiosk [main] Драйвер открыт
+2024-01-21 22:48:35,954 INFO TestWithKiosk [main] Элемент найден и открыт
+2024-01-21 22:48:35,955 INFO TestWithKiosk [main] Драйвер закрыт
