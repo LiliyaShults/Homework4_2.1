@@ -17,7 +17,7 @@ import java.time.Duration;
 
 
 public class TestWithKiosk {
-    WebDriver driver;
+    private WebDriver driver;
     private Logger logger = LogManager.getLogger(TestWithKiosk.class);
 
     public void Log(){
